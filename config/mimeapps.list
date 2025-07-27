@@ -1,3 +1,4 @@
 
 [Default Applications]
-inode/directory=org.gnome.Nautilus.desktop
+inode/directory=Thunar.desktop
+x-scheme-handler/discord=vesktop.desktop
