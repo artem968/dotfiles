@@ -23,7 +23,7 @@ clear
 TEMP_DOTFILES_DIR="/tmp/hyprland_dotfiles_$(date +%s)"
 
 # Default dotfiles repository URL
-DEFAULT_DOTFILES_REPO="https://github.com/artem968/Tokyo-Night-Hyprland.git"
+DEFAULT_DOTFILES_REPO="https://github.com/artem968/dotfiles.git"
 
 # These will be populated from packages.conf after cloning
 PACMAN_PACKAGES=""
